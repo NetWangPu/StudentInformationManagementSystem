@@ -11,7 +11,7 @@
 
 ### 介绍
 
-主页： <img src="img/Home.png" alt="Home" style="zoom: 33%;" />
+主页： <img src="img/Home.png#pic_center =180x180" alt="Home" style="zoom: 33%;" />
 
 
 
