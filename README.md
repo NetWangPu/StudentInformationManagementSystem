@@ -11,6 +11,8 @@
 
 ### 介绍
 
+![](https://github.com/NetWangPu/StudentInformationManagementSystem/img/Home.png#pic_center =180x180)
+
 主页： <img src="img/Home.png#pic_center =180x180" alt="Home" style="zoom: 33%;" />
 
 
